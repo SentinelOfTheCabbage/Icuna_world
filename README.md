@@ -10,6 +10,10 @@
 
 ![Icuna world](./images/Icuna.jpeg)
 
+### Доступные классы
+
+![Classes](./images/Classes.png)
+
 ### Доступные расы
 
 ![Races](./images/Races.png)
